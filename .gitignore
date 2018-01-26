@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+log4j.log
+*.iml
+target
+LumadaDemo.java
+connection.properties
